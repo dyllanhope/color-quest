@@ -86,9 +86,6 @@ button {
     margin : auto;
 }
 
-.logic {
-}
-
 .console {
   background: #000000;
   color : lime;
@@ -127,7 +124,7 @@ button {
   text-align: center
 }
 
-.circle > .number {
+.circle .number {
     margin-top: 0.3em;
     margin-left: -0.1em;
     text-align: center;
